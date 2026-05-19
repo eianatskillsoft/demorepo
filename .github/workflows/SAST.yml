@@ -28,5 +28,5 @@ jobs:
           
       - name: Build Code
         run: |
-          echo "Building code...
+          echo "Building code..."
           exit 0
